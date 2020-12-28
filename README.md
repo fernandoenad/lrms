@@ -1,2 +1,2 @@
 # lrms
- the official SDO Bohol LRMS repository.
+ The official SDO Bohol LRMS repository.
