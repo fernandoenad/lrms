@@ -63,8 +63,8 @@
 										<thead>
 											<tr>
 												<th>Title</th>
-												<th>Course</th>
 												<th>Category</th>
+												<th>Course</th>
 												<th>Coverage</th>
 												<th><i class="fas fa-download"></i></th>
 											</tr>
