@@ -28,7 +28,7 @@
 			</li>
 			-->
 			<li class="nav-item dropdown user-menu">
-				<?php $avatar_path = (file_exists("../assets/avatars/".$logged_userID.".jpg") ? $logged_userID : "avatar-0");?>
+				<?php $avatar_path = (file_exists("../assets/avatars/1.jpg") ? $logged_userID : "avatar-0");?>
 				<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
 					<img src="../assets/avatars/<?php echo $avatar_path;?>.jpg" class="user-image img-circle elevation-2" alt="User Image">
 					<span class="d-none d-md-inline"><?php echo $logged_userFullname;?></span>
